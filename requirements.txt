@@ -4,3 +4,4 @@ requests==2.32.3
 newspaper3k==0.2.8
 python-dotenv==1.0.1
 httpx<0.28
+lxml-html-clean==0.4.3
